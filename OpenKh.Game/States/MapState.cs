@@ -1,8 +1,8 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-using OpenKh.Game.Debugging;
-using OpenKh.Game.Infrastructure;
 using OpenKh.Common;
+using OpenKh.Game.Infrastructure;
+using OpenKh.Game.Debugging;
 using OpenKh.Kh2;
 using OpenKh.Kh2.Extensions;
 using System.Collections.Generic;
